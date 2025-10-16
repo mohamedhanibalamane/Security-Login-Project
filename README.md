@@ -62,7 +62,8 @@ URL Scan – Input field + “Analyze” button → instant result
 
 Password Checker – Secure input + score display + tips + crack time estimate
 
-Example Outputs
+Example Outputs :
+
 --- File Scan Result ---
 Name: example.pdf
 Status: No malware detected
@@ -88,7 +89,7 @@ ReportLab / FPDF → Generate PDF analysis reports
 
 MongoDB → Database for storing users, scan history, and malware signatures
 
-6. How to Use :
+4. How to Use :
 
 Open the app in your browser → http://localhost:5000
 
